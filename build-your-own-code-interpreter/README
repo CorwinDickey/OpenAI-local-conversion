@@ -1,1 +1,3 @@
-This is a project developed to implement LLM locally using ollama. This project includes execution of AI generated code, so docker is a necessity. DO NOT RUN AI GENERATED CODE ON YOUR MACHINE!!!
+This project implements the OpenAI cookbook found [here](https://cookbook.openai.com/examples/object_oriented_agentic_approach/secure_code_interpreter_tool_for_llm_agents) using Ollama for local LLM model support.
+
+It uses docker to run the LLM generated code in a safe environment.
