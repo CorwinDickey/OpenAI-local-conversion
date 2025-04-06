@@ -1,0 +1,1 @@
+This repository has various implementations of OpenAI cookbooks converted to using Ollama for local implementation of the LLM model instead of relying on the OpenAI API.
